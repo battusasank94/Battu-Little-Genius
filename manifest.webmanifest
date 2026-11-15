@@ -1,0 +1,19 @@
+{
+  "name": "Battu Little Genius",
+  "short_name": "Little Genius",
+  "description": "A free, ad-free learning and play app for little children.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8f3ff",
+  "theme_color": "#7868e6",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
